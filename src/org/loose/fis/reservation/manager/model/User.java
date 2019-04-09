@@ -7,6 +7,12 @@ public class User {
     private String id;
     private String firstName;
     private String lastName;
+<<<<<<< HEAD
+=======
+    
+    // optional field (only if users will require it)
+    private String nickName;
+>>>>>>> documentation
     private int age;
     
     // field that says if the user owns a company that you can get reservations to
